@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-street-view-360",
-      "name": "Street View 360",
+      "name": "location 2",
       "levels": [
         {
           "tileSize": 256,
